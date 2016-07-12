@@ -1,3 +1,3 @@
 # Algorithms-DataStructures
-Heaps and Heap Sort\n
+Heaps and Heap Sort
 Binary Search Tree
